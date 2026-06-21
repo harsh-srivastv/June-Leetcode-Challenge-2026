@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/1840-maximum-building-height) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -28,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/1833-maximum-ice-cream-bars) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/1840-maximum-building-height) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Math
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->

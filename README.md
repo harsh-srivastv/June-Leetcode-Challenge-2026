@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
@@ -67,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -127,4 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/1833-maximum-ice-cream-bars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2026/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
